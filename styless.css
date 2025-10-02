@@ -32,3 +32,11 @@ footer{
   color: white;
   background-color: #bb161d;
 }
+nav{
+    height: 35px;
+}
+main{
+    font-weight: bold;
+background-image: url(background.webp);
+background-repeat: repeat-x;
+}
